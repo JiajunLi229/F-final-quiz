@@ -4,4 +4,13 @@
   h1 {
     margin: 20px 0;
   }
+
+  .input-field {
+    text-align: center;
+    height: 35px;
+    width: 133px;
+    margin: 10px 20px;
+    background-color: $bg-gray;
+    border: 1px solid $gray;
+  }
 }
