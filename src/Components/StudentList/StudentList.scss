@@ -1,3 +1,6 @@
+// TODO GTB-4: - 这里没有用import variables，scss编译失败
+@import '../../style/variables';
+
 .student-list {
   padding: 15px 20px;
 
